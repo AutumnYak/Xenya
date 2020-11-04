@@ -1,0 +1,10 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Xenya\Project\lol\lol\bin\Debug\lol.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Xenya\Project\lol\lol\bin\Debug\lol.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Xenya\Project\lol\lol\bin\Debug\lol.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Xenya\Project\lol\lol\obj\Debug\lol.csprojAssemblyReference.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Xenya\Project\lol\lol\obj\Debug\MainForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Xenya\Project\lol\lol\obj\Debug\lol.Properties.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Xenya\Project\lol\lol\obj\Debug\lol.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Xenya\Project\lol\lol\obj\Debug\lol.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Xenya\Project\lol\lol\obj\Debug\lol.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Xenya\Project\lol\lol\obj\Debug\lol.pdb
